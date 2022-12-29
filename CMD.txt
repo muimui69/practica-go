@@ -1,0 +1,19 @@
+en cmd:
+"C:\Program Files\Go\bin\go.exe" run -v "C:\HDD\Sublime text\Golang\si.go"  
+
+go run "C:\HDD\Sublime text\Golang\3.Funciones.go"
+ 
+GOPATH:
+C:\Users\User\go
+GOROOT:
+C:\Program Files\Go
+
+JSON:
+{
+   "shell_cmd": "go run ${file}"
+}
+
+
+could not import github.com/gorilla/mux (cannot find package "github.com/gorilla/mux" in any of 
+	C:\Program Files\Go\src\github.com\gorilla\mux (from $GOROOT)
+	C:\Users\User\go\src\github.com\gorilla\mux (from $GOPATH))
